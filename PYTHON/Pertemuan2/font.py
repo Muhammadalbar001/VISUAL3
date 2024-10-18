@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
-sg.theme("DarkBrown")
-sg.theme_text_color("#E3CF57")
+sg.theme("DarkGreen4")
+sg.theme_text_color("#FFFF00")
 window = sg.Window(title="Profile", 
                     layout=[[sg.Text("SELAMAT DATANG DI KELAS",
                                     font=("Aerial",18,"italic","bold","underline"))],
