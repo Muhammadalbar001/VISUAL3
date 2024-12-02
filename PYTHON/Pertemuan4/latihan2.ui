@@ -168,6 +168,9 @@
       <height>22</height>
      </rect>
     </property>
+    <property name="text">
+     <string>2210010667</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_2">
     <property name="geometry">
@@ -177,6 +180,9 @@
       <width>420</width>
       <height>22</height>
      </rect>
+    </property>
+    <property name="text">
+     <string>Muhammad Albar</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_3">
@@ -188,6 +194,9 @@
       <height>22</height>
      </rect>
     </property>
+    <property name="text">
+     <string>5M REG PAGI BJM</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_4">
     <property name="geometry">
@@ -197,6 +206,9 @@
       <width>420</width>
       <height>20</height>
      </rect>
+    </property>
+    <property name="text">
+     <string>Kampung Baru</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_5">
@@ -208,6 +220,9 @@
       <height>22</height>
      </rect>
     </property>
+    <property name="text">
+     <string>26 September 2002</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_6">
     <property name="geometry">
@@ -218,6 +233,9 @@
       <height>22</height>
      </rect>
     </property>
+    <property name="text">
+     <string>083141886688</string>
+    </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_7">
     <property name="geometry">
@@ -227,6 +245,9 @@
       <width>420</width>
       <height>22</height>
      </rect>
+    </property>
+    <property name="text">
+     <string>Sungai Jingah</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton">
